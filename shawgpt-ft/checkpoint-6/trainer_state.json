@@ -1,5 +1,5 @@
 {
-  "best_metric": 3.430464029312134,
+  "best_metric": 3.445218801498413,
   "best_model_checkpoint": "shawgpt-ft\\checkpoint-6",
   "epoch": 1.8461538461538463,
   "eval_steps": 500,
@@ -10,32 +10,32 @@
   "log_history": [
     {
       "epoch": 0.92,
-      "grad_norm": 2.1179537773132324,
+      "grad_norm": 1.9502962827682495,
       "learning_rate": 0.00019285714285714286,
-      "loss": 4.5905,
+      "loss": 4.5931,
       "step": 3
     },
     {
       "epoch": 0.92,
-      "eval_loss": 3.9598469734191895,
-      "eval_runtime": 14.2825,
-      "eval_samples_per_second": 0.63,
-      "eval_steps_per_second": 0.21,
+      "eval_loss": 3.970486879348755,
+      "eval_runtime": 15.4706,
+      "eval_samples_per_second": 0.582,
+      "eval_steps_per_second": 0.194,
       "step": 3
     },
     {
       "epoch": 1.85,
-      "grad_norm": 2.234100103378296,
+      "grad_norm": 2.1856021881103516,
       "learning_rate": 0.00017142857142857143,
-      "loss": 4.035,
+      "loss": 4.0487,
       "step": 6
     },
     {
       "epoch": 1.85,
-      "eval_loss": 3.430464029312134,
-      "eval_runtime": 14.2849,
-      "eval_samples_per_second": 0.63,
-      "eval_steps_per_second": 0.21,
+      "eval_loss": 3.445218801498413,
+      "eval_runtime": 16.0961,
+      "eval_samples_per_second": 0.559,
+      "eval_steps_per_second": 0.186,
       "step": 6
     }
   ],
